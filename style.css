@@ -24,11 +24,11 @@ body {
 /* 클릭 가능한 영역 */
 .clickable-area {
   position: absolute;
-  top: 64%; /* 클릭 영역의 위치 */
-  left: 50%; /* 클릭 영역의 위치 */
+  top: 410px; /* 클릭 영역의 위치 */
+  left: 600px; /* 클릭 영역의 위치 */
   width: 42px; /* 클릭 영역의 크기 */
   height: 42px; /* 클릭 영역의 크기 */
-  background-color:transparent; /* 디버깅용 - 최종적으로 제거 가능 */
+  background-color:transparent;; /* 디버깅용 - 최종적으로 제거 가능 */
   border-radius: 50%;
   cursor: pointer;
 }
