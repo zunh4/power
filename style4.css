@@ -24,8 +24,8 @@ body {
   /* 클릭 가능한 영역 */
   .clickable-area {
     position: absolute;
-    top: 55%; /* 클릭 영역의 위치 */
-    left: 44%; /* 클릭 영역의 위치 */
+    top: 355px; /* 클릭 영역의 위치 */
+    left: 525px; /* 클릭 영역의 위치 */
     width: 20px; /* 클릭 영역의 크기 */
     height: 20px; /* 클릭 영역의 크기 */
     background-color:transparent; /* 디버깅용 - 최종적으로 제거 가능 */
